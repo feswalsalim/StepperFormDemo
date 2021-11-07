@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StepperFormDemo</string>
+
+    <array name="details">
+        <item>Personal</item>
+        <item>Location</item>
+        <item>Usage</item>
+        <item>Employment</item>
+        <item>Loan</item>
+    </array>
+
+</resources>
